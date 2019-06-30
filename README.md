@@ -1,2 +1,2 @@
 # ProjectReveiwMGx
-To enable remote Review of AbuMubaraks UD Research Project.
+To facilitates remote Review of AbuMubarak's UD Research Project.
